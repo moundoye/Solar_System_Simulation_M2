@@ -1,7 +1,7 @@
 # Solar_System_Simulation_M2
   
 
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++  
 Le projet développé consiste à simuler le mouvement des planètes autour du soleil
 Pour exécuter le projet copié la ligne suivante et le collé en argument de commande dans la section débogage : 
 

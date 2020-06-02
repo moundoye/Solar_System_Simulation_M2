@@ -39,6 +39,8 @@
 #define h 205.  //	Le pas pour chaque calcule des équations différentielles
 #define GRAVI 6.6742E-11
 
+#define NB_Planet 7
+
 /*=========================================================================================================================
 	class Planet
 	Fonction : 

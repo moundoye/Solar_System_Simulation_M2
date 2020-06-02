@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\mmouh\Downloads\Solar_System_Simulation_M2\Solar_System.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mmouh\Downloads\Solar_System_Simulation_M2\Planet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\mmouh\Downloads\Solar_System_Simulation_M2\Planet.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\mmouh\Downloads\Solar_System_Simulation_M2\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{516094D5-0DE6-3D4D-884D-AAD5461FEEF7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{10A86874-ECB7-3C18-A1C0-5C2D9640321D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
